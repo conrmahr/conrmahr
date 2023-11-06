@@ -1,10 +1,9 @@
 ### Hiya 👋
 
-Hi, my name is Conor! I'm a Lead Software Developer focusing on Fullstack Development, Frontend Development, Continuous Integration, and Mentorship. I love anything with HTML, CSS, JavaScript, or BBQ Sauce in it.
+My name is Con-r Mah-r, (conrmahr)! I'm a Lead Software Developer focusing on Fullstack Development, Frontend Development, Open-Source, and Mentorship. I love anything with HTML, CSS, JavaScript, or BBQ Sauce in it.
 
 🔗 Find me on the web:
 
-- Website: [conormeagher.com](https://conormeagher.com)
-- LinkedIn: [conrmahr](https://www.linkedin.com/in/conrmahr)
-- Polywork: [@conr](https://poly.work/conr)
+- Website: [conr.dev](https://conr.dev)
 - Twitter: [@conrmahr](https://twitter.com/conrmahr)
+- LinkedIn: [in/conrmahr](https://www.linkedin.com/in/conrmahr)
